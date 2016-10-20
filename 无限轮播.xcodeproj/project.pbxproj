@@ -12,6 +12,18 @@
 		41BC0EAA1DB7619D00D18CF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EA81DB7619D00D18CF3 /* Main.storyboard */; };
 		41BC0EAC1DB7619D00D18CF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EAB1DB7619D00D18CF3 /* Assets.xcassets */; };
 		41BC0EAF1DB7619D00D18CF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EAD1DB7619D00D18CF3 /* LaunchScreen.storyboard */; };
+		41BC0EB71DB761DF00D18CF3 /* GMImageCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BC0EB61DB761DF00D18CF3 /* GMImageCarouselView.swift */; };
+		41BC0EBC1DB7640200D18CF3 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EB91DB7640200D18CF3 /* 2.png */; };
+		41BC0EBD1DB7640200D18CF3 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EBA1DB7640200D18CF3 /* 1.png */; };
+		41BC0EC51DB771A800D18CF3 /* 14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EBE1DB771A800D18CF3 /* 14.jpg */; };
+		41BC0EC61DB771A800D18CF3 /* 15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EBF1DB771A800D18CF3 /* 15.jpg */; };
+		41BC0EC71DB771A800D18CF3 /* 16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EC01DB771A800D18CF3 /* 16.jpg */; };
+		41BC0EC81DB771A800D18CF3 /* 10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EC11DB771A800D18CF3 /* 10.jpg */; };
+		41BC0EC91DB771A800D18CF3 /* 11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EC21DB771A800D18CF3 /* 11.jpg */; };
+		41BC0ECA1DB771A800D18CF3 /* 12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EC31DB771A800D18CF3 /* 12.jpg */; };
+		41BC0ECB1DB771A800D18CF3 /* 13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EC41DB771A800D18CF3 /* 13.jpg */; };
+		41BC0ECD1DB774ED00D18CF3 /* GMImageCarouseViewLowMemory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41BC0ECC1DB774ED00D18CF3 /* GMImageCarouseViewLowMemory.swift */; };
+		41BC0EF21DB872FB00D18CF3 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 41BC0EF11DB872FB00D18CF3 /* 3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		41BC0EAB1DB7619D00D18CF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41BC0EAE1DB7619D00D18CF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		41BC0EB01DB7619D00D18CF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41BC0EB61DB761DF00D18CF3 /* GMImageCarouselView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMImageCarouselView.swift; sourceTree = "<group>"; };
+		41BC0EB91DB7640200D18CF3 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		41BC0EBA1DB7640200D18CF3 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		41BC0EBE1DB771A800D18CF3 /* 14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 14.jpg; sourceTree = "<group>"; };
+		41BC0EBF1DB771A800D18CF3 /* 15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 15.jpg; sourceTree = "<group>"; };
+		41BC0EC01DB771A800D18CF3 /* 16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 16.jpg; sourceTree = "<group>"; };
+		41BC0EC11DB771A800D18CF3 /* 10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10.jpg; sourceTree = "<group>"; };
+		41BC0EC21DB771A800D18CF3 /* 11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11.jpg; sourceTree = "<group>"; };
+		41BC0EC31DB771A800D18CF3 /* 12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 12.jpg; sourceTree = "<group>"; };
+		41BC0EC41DB771A800D18CF3 /* 13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 13.jpg; sourceTree = "<group>"; };
+		41BC0ECC1DB774ED00D18CF3 /* GMImageCarouseViewLowMemory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMImageCarouseViewLowMemory.swift; sourceTree = "<group>"; };
+		41BC0EF11DB872FB00D18CF3 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +78,34 @@
 		41BC0EA31DB7619D00D18CF3 /* 无限轮播 */ = {
 			isa = PBXGroup;
 			children = (
+				41BC0EF01DB8728400D18CF3 /* Images */,
 				41BC0EA41DB7619D00D18CF3 /* AppDelegate.swift */,
 				41BC0EA61DB7619D00D18CF3 /* ViewController.swift */,
+				41BC0EB61DB761DF00D18CF3 /* GMImageCarouselView.swift */,
+				41BC0ECC1DB774ED00D18CF3 /* GMImageCarouseViewLowMemory.swift */,
 				41BC0EA81DB7619D00D18CF3 /* Main.storyboard */,
 				41BC0EAB1DB7619D00D18CF3 /* Assets.xcassets */,
 				41BC0EAD1DB7619D00D18CF3 /* LaunchScreen.storyboard */,
 				41BC0EB01DB7619D00D18CF3 /* Info.plist */,
 			);
 			path = "无限轮播";
+			sourceTree = "<group>";
+		};
+		41BC0EF01DB8728400D18CF3 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				41BC0EBE1DB771A800D18CF3 /* 14.jpg */,
+				41BC0EBF1DB771A800D18CF3 /* 15.jpg */,
+				41BC0EC01DB771A800D18CF3 /* 16.jpg */,
+				41BC0EC11DB771A800D18CF3 /* 10.jpg */,
+				41BC0EC21DB771A800D18CF3 /* 11.jpg */,
+				41BC0EC31DB771A800D18CF3 /* 12.jpg */,
+				41BC0EC41DB771A800D18CF3 /* 13.jpg */,
+				41BC0EF11DB872FB00D18CF3 /* 3.png */,
+				41BC0EB91DB7640200D18CF3 /* 2.png */,
+				41BC0EBA1DB7640200D18CF3 /* 1.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,6 +140,7 @@
 				TargetAttributes = {
 					41BC0EA01DB7619D00D18CF3 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 34QXYKJ6T9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -123,9 +168,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41BC0ECB1DB771A800D18CF3 /* 13.jpg in Resources */,
+				41BC0EC91DB771A800D18CF3 /* 11.jpg in Resources */,
+				41BC0EC81DB771A800D18CF3 /* 10.jpg in Resources */,
 				41BC0EAF1DB7619D00D18CF3 /* LaunchScreen.storyboard in Resources */,
 				41BC0EAC1DB7619D00D18CF3 /* Assets.xcassets in Resources */,
+				41BC0EBC1DB7640200D18CF3 /* 2.png in Resources */,
+				41BC0EC61DB771A800D18CF3 /* 15.jpg in Resources */,
+				41BC0EC51DB771A800D18CF3 /* 14.jpg in Resources */,
+				41BC0EF21DB872FB00D18CF3 /* 3.png in Resources */,
+				41BC0EBD1DB7640200D18CF3 /* 1.png in Resources */,
+				41BC0ECA1DB771A800D18CF3 /* 12.jpg in Resources */,
 				41BC0EAA1DB7619D00D18CF3 /* Main.storyboard in Resources */,
+				41BC0EC71DB771A800D18CF3 /* 16.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +192,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				41BC0EA71DB7619D00D18CF3 /* ViewController.swift in Sources */,
+				41BC0ECD1DB774ED00D18CF3 /* GMImageCarouseViewLowMemory.swift in Sources */,
+				41BC0EB71DB761DF00D18CF3 /* GMImageCarouselView.swift in Sources */,
 				41BC0EA51DB7619D00D18CF3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -260,6 +317,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 34QXYKJ6T9;
 				INFOPLIST_FILE = "无限轮播/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.xinxibin.----";
@@ -272,6 +330,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 34QXYKJ6T9;
 				INFOPLIST_FILE = "无限轮播/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.xinxibin.----";
@@ -299,6 +358,7 @@
 				41BC0EB51DB7619D00D18CF3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
